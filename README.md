@@ -1,6 +1,7 @@
 # 1-_VIP_Course
 1С_Внедренцы и программисты
-### ОУ_01
+
+### ОУ_01 - Первый тестовый.
 [Выгрузка_Задача_5](https://github.com/Valera94/1-_VIP_Course/blob/main/ВИП_ОУ1_Билет5.dt) | [Выгрузка_Задача_6](https://github.com/Valera94/1-_VIP_Course/blob/main/ВИП_ОУ1_Билет6.dt)
 
 <img width="346" height="395" alt="image" src="https://github.com/user-attachments/assets/def55b6f-2108-4928-9fc9-a69772bc728e" />
